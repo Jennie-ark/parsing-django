@@ -1,0 +1,44 @@
+[
+  {
+	"model": "scraping.city",
+	"pk": 1,
+	"fields": {
+	  "name": "Kiev",
+	  "slug": ""
+	}
+  },
+  {
+	"model": "scraping.language",
+	"pk": 1,
+	"fields": {
+	  "name": "Python",
+	  "slug": ""
+	}
+  },
+  {
+	"model": "scraping.vacancy",
+	"pk": 1,
+	"fields": {
+	  "url": "http://ww.sdfsdf.ru",
+	  "title": "DFrfycbz 1",
+	  "company": "dfdf",
+	  "description": "dfdf",
+	  "city": 1,
+	  "language": 1,
+	  "timestamp": "2021-12-13"
+	}
+  },
+  {
+	"model": "scraping.vacancy",
+	"pk": 2,
+	"fields": {
+	  "url": "http://www.tttt.ru",
+	  "title": "2dfdfdfdfdfdfdf",
+	  "company": "dddddddddg",
+	  "description": "sdgsdfsdf",
+	  "city": 1,
+	  "language": 1,
+	  "timestamp": "2021-12-13"
+	}
+  }
+]
